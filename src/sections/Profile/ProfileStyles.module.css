@@ -77,9 +77,9 @@
   gap: 20px;
 }
 
-@media (width <800px){
+@media (width < 800px){
   .description{
-    max-width: 35ch;
+    max-width: 40ch;
   }
 }
 @media (width >= 800px) {
